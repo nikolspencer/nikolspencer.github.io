@@ -1,11 +1,34 @@
 ---
 layout: page
-title: About
+title: Hello.
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img class="profile" src="/img/me.jpg">
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p>I’m Nikki.<br>
+Bosslady, Front End Designer, Mixed Media Artist and perpetual student living the dream in sweet, sweet Chicago. Mother to 3. Pisces. Oversharer. Big fan of truth and authenticity. Big fan.
+<br><br>
+This is my personal website and portfolio. My mistakes made, designer faux paus and little triumphs.
+<br><br>
+Checkout my <a href="https://github.com/nikolspencer/nikolspencer.github.io">Github repository</a> to report a bug or share an idea.
+<br>
+<br>
+This site was built with:
+
+<ul>
+    <li>Jekyll</li>
+</ul>
+</p>
+</div>
+	<a href="mailto:nikolspencer@gmail.com"><i class="fa fa-envelope"></i></a>
+	<a href="https://github.com/nikolspencer" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/nikolspencer" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://instagram.com/nikolspencer" target="_blank"><i class="fa fa-instagram"></i></a>
+	<a href="https://twitter.com/nikolspencer" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</div>
+
+	You can even add a little note about which of these is the best way to reach you.
+</div>
